@@ -1,6 +1,4 @@
-# flutter_burc_rehberi
-
-Burç Rehberi Uygulaması
+# flutter_horoscope_guide_app
 
 ## Getting Started
 
